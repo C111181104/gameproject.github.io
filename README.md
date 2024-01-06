@@ -1,1 +1,1 @@
-# gameproject.io
+# gameproject.github.io
