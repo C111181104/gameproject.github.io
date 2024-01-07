@@ -270,6 +270,18 @@ figure.effect-oscar:hover img {
 /* Styles
 ---------------------------------*/
 
+.footer {
+    background-color: black;
+    color: gray;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
 
 
 .gameimg {
@@ -360,18 +372,6 @@ figure.effect-oscar:hover img {
     margin-bottom: 60px;
 }
 
-.footer {
-    background-color: black;
-    color: gray;
-    height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 18px;
-    position: fixed;
-    bottom: 0px;
-    width: 100%;
-}
 
 body {
     background: #fff;
